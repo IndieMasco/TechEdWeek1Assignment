@@ -1,8 +1,7 @@
 * {
+  font-family: "Audiowide", sans-serif;
   margin: 0;
   padding: 0;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   box-sizing: border-box;
   scroll-behavior: smooth;
 }
@@ -27,6 +26,11 @@
   font-size: 1rem;
 }
 
+.nav-link:hover {
+  color: black;
+  text-decoration: underline;
+}
+
 .image-container {
   position: relative;
   width: 100%;
@@ -40,19 +44,36 @@
 
 .text-box {
   position: absolute;
+  border-radius: 30px;
+  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.8);
   bottom: 0;
   background-color: rgba(212, 47, 47, 0.8);
-  padding: 10px;
+  padding: 15px;
   margin: 100px;
   text-align: left;
+  font-size: 1.6rem;
 }
 
 .button {
   display: inline-block;
-  padding: 10px 20px;
-  font-size: 1.2rem;
-  background-color: #4caf50;
-  color: rgb(0, 0, 0);
+  padding: 10px;
+  margin: 20px;
+  font-size: 1.5rem;
+  background-color: #383030;
+  color: rgb(212, 47, 47);
   text-decoration: none;
   border-radius: 5px;
+}
+
+.button:hover {
+  transform: translateX(10px);
+  background-color: rgb(212, 47, 47);
+  color: #383030;
+}
+
+footer {
+  background-color: rgba(212, 47, 47, 0.8);
+  color: white;
+  text-align: center;
+  padding: 20px;
 }
