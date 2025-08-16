@@ -8,6 +8,7 @@
 - Enabled smooth scrolling.
 - Added a hover effect on buttons for interactivity.
 - Created a basic footer with social media icons linking to social media pages.
+- Added a 2nd page for the about me section.
 
 ## Reflection
 
@@ -31,6 +32,7 @@ Info
 Tutorials
 
 - back to top button - https://www.youtube.com/watch?v=fYGe-SuFAHU&t=78s
+- adding audio - https://www.youtube.com/watch?v=uof_zYxtnp0&t=21s
 - extra page - https://www.youtube.com/watch?v=_ir9du6fq4Q
 
 Style
