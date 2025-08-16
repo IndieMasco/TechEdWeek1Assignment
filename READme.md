@@ -37,3 +37,7 @@ Style
 
 - Font style - https://www.w3schools.com/css/css_font.asp
 - Social Logos - https://www.w3schools.com/icons/fontawesome_icons_intro.asp
+
+## Feedback Request
+
+I'd be happy with any sort of feedback, whether it is good, bad, or on things that I could improve on.
