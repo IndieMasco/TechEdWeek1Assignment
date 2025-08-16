@@ -24,9 +24,9 @@ Info
 
 - My class work - https://github.com/IndieMasco/TechEd
 - Tech Ed repo - https://github.com/Tech-Educators/software-dev-021
-- FigJam - https://www.figma.com/board/JjN2Zgtoynrau06MjWJs6q/SD021?node-id=0-1&p=f&t=V1WCGcrmVKnoxJDr-0
 - MDN - https://developer.mozilla.org/en-US/
 - W3School - https://www.w3schools.com/
+- FigJam - https://www.figma.com/board/JjN2Zgtoynrau06MjWJs6q/SD021?node-id=0-1&p=f&t=V1WCGcrmVKnoxJDr-0
 
 Tutorials
 
