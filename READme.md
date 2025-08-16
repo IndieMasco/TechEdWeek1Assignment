@@ -9,17 +9,19 @@
 - Added a hover effect on buttons for interactivity.
 - Created a basic footer with social media icons linking to social media pages.
 
-requirements that i was unable to achieve
+## requirements that i was unable to achieve
 
-if so leave a comment
+## if so leave a comment
 
-External sources that i used
+## External sources that i used
 
-sites i used for info on how to do curtain things
-My class work - https://github.com/IndieMasco/TechEd
-back to top button - https://www.youtube.com/watch?v=fYGe-SuFAHU&t=78s
-extra page - https://www.youtube.com/watch?v=_ir9du6fq4Q
+## sites i used for info on how to do curtain things
 
-sites i used to help style
-Font style - https://www.w3schools.com/css/css_font.asp
-Social Logos - https://www.w3schools.com/icons/fontawesome_icons_intro.asp
+- My class work - https://github.com/IndieMasco/TechEd
+- back to top button - https://www.youtube.com/watch?v=fYGe-SuFAHU&t=78s
+- extra page - https://www.youtube.com/watch?v=_ir9du6fq4Q
+
+## sites i used to help style
+
+- Font style - https://www.w3schools.com/css/css_font.asp
+- Social Logos - https://www.w3schools.com/icons/fontawesome_icons_intro.asp
