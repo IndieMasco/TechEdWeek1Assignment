@@ -1,8 +1,8 @@
 ## Requirements I Think I've Achieved
 
-- I've used <header>, <nav>, and <footer> elements.
+- I've used header, nav, and footer elements.
 - Applied CSS absolute positioning to overlay text on an image.
-- Utilized CSS Flexbox to create a flexible and responsive layout in the <nav> element.
+- Utilized CSS Flexbox to create a flexible and responsive layout in the nav element.
 - Ensured all image elements have correct src file paths.
 - Implemented a "back to top" button.
 - Enabled smooth scrolling.
