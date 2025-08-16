@@ -4,11 +4,16 @@
 - Applied CSS absolute positioning to overlay text on an image.
 - Utilized CSS Flexbox to create a flexible and responsive layout in the nav element.
 - Ensured all image elements have correct src file paths.
-- Implemented a "back to top" button.
+- Implemented two back to top buttons. The first one is by clicking home and it will reload the page, and the second one is with a fixed button in the bottom right of the webpage.
 - Enabled smooth scrolling.
 - Added a hover effect on buttons for interactivity.
 - Created a basic footer with social media icons linking to social media pages.
-- Added a 2nd page for the about me section.
+- added audio
+- Added multiple extra page.
+
+## requirements that I wasnt able to achieve
+
+- I wasn't able to get the audio to autoplay. Everywhere I look online is saying that it's blocked by most browsers and it won't autoplay until the user has interacted with the page.
 
 ## Reflection
 
@@ -31,9 +36,9 @@ Info
 
 Tutorials
 
-- back to top button - https://www.youtube.com/watch?v=fYGe-SuFAHU&t=78s
-- adding audio - https://www.youtube.com/watch?v=uof_zYxtnp0&t=21s
-- extra page - https://www.youtube.com/watch?v=_ir9du6fq4Q
+- Back to top button - https://www.youtube.com/watch?v=fYGe-SuFAHU&t=78s
+- Adding audio - https://www.youtube.com/watch?v=uof_zYxtnp0&t=21s
+- Extra page - https://www.youtube.com/watch?v=_ir9du6fq4Q
 
 Style
 
