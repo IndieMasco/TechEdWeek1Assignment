@@ -1,0 +1,25 @@
+Requirements i think ive achieve
+
+- <header>, <nav>, and <footer>.
+- CSS absolute positioning to overlay text on an image.
+- CSS Flexbox to create a flexible and responsive layout in the <nav> element.
+- Made sure all image elements are correctly implemented with accurate src file paths.
+- implemented a back to top button.
+- Implement smooth scrolling.
+- Implement a hover effect on buttons to make them more interactive.
+- Create a basic footer with social media icons that link to social media pages.
+
+requirements that i was unable to achieve
+
+if so leave a comment
+
+External sources that i used
+
+sites i used for info on how to do curtain things
+My class work - https://github.com/IndieMasco/TechEd
+back to top button - https://www.youtube.com/watch?v=fYGe-SuFAHU&t=78s
+extra page - https://www.youtube.com/watch?v=_ir9du6fq4Q
+
+sites i used to help style
+Font style - https://www.w3schools.com/css/css_font.asp
+Social Logos - https://www.w3schools.com/icons/fontawesome_icons_intro.asp
