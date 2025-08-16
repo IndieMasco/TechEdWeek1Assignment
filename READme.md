@@ -20,7 +20,7 @@ For Week One's assignment, we were asked to build a website using HTML and CSS w
 
 ## External sources that I used
 
-Sites i used for info on how to do curtain things
+Info
 
 - My class work - https://github.com/IndieMasco/TechEd
 - Tech Ed repo - https://github.com/Tech-Educators/software-dev-021
@@ -28,12 +28,12 @@ Sites i used for info on how to do curtain things
 - MDN - https://developer.mozilla.org/en-US/
 - W3School - https://www.w3schools.com/
 
-SItes i used for tutorials
+Tutorials
 
 - back to top button - https://www.youtube.com/watch?v=fYGe-SuFAHU&t=78s
 - extra page - https://www.youtube.com/watch?v=_ir9du6fq4Q
 
-Sites i used to help style
+Style
 
 - Font style - https://www.w3schools.com/css/css_font.asp
 - Social Logos - https://www.w3schools.com/icons/fontawesome_icons_intro.asp
