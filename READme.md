@@ -9,7 +9,12 @@
 - Added a hover effect on buttons for interactivity.
 - Created a basic footer with social media icons linking to social media pages.
 - added audio
-- Added multiple extra page.
+
+## Extra things i have added
+
+- Multiple extra pages. About us, Consoles, Games, Contact
+- Image background to the about me page.
+- Name, Email and Message box on contact page
 
 ## requirements that I wasnt able to achieve
 
