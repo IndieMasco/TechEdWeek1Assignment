@@ -13,7 +13,7 @@
   z-index: 1;
   width: 100%;
   padding: 15px;
-  background-color: rgba(212, 47, 47, 0.8);
+  background-color: rgb(212, 47, 47);
   justify-content: space-between;
   align-items: center;
   font-size: 1.3rem;
@@ -27,7 +27,7 @@
 }
 
 .nav-link:hover {
-  color: black;
+  color: rgb(0, 0, 0);
   text-decoration: underline;
 }
 
@@ -42,16 +42,42 @@
   height: 100%;
 }
 
-.text-box {
+.text-box1 {
   position: absolute;
-  border-radius: 30px;
+  left: 50%;
+  border-radius: 50px;
   box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.8);
   bottom: 0;
   background-color: rgba(212, 47, 47, 0.8);
   padding: 15px;
   margin: 100px;
-  text-align: left;
+  text-align: center;
   font-size: 1.6rem;
+}
+
+.text-box2 {
+  position: absolute;
+  border-radius: 50px;
+  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.8);
+  bottom: 0;
+  background-color: rgba(212, 47, 47, 0.8);
+  padding: 15px;
+  margin: 100px;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.text-box3 {
+  position: absolute;
+  transform: translateX(85%);
+  border-radius: 50px;
+  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.8);
+  bottom: 0;
+  background-color: rgba(212, 47, 47, 0.8);
+  padding: 15px;
+  margin: 100px;
+  text-align: center;
+  font-size: 1.5rem;
 }
 
 .button {
@@ -72,8 +98,19 @@
 }
 
 footer {
-  background-color: rgba(212, 47, 47, 0.8);
-  color: white;
+  background-color: rgba(212, 47, 47);
+  color: rgb(0, 0, 0);
   text-align: center;
   padding: 20px;
+}
+
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: rgba(212, 47, 47, 0.8);
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  border-radius: 50%;
+  text-decoration: none;
 }
