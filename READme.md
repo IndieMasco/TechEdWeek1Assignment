@@ -15,13 +15,13 @@
 
 ## External sources that i used
 
-## sites i used for info on how to do curtain things
+sites i used for info on how to do curtain things
 
 - My class work - https://github.com/IndieMasco/TechEd
 - back to top button - https://www.youtube.com/watch?v=fYGe-SuFAHU&t=78s
 - extra page - https://www.youtube.com/watch?v=_ir9du6fq4Q
 
-## sites i used to help style
+sites i used to help style
 
 - Font style - https://www.w3schools.com/css/css_font.asp
 - Social Logos - https://www.w3schools.com/icons/fontawesome_icons_intro.asp
