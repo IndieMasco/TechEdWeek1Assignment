@@ -1,13 +1,13 @@
-Requirements i think ive achieve
+**Requirements I think I've achieved**
 
-- <header>, <nav>, and <footer>.
-- CSS absolute positioning to overlay text on an image.
-- CSS Flexbox to create a flexible and responsive layout in the <nav> element.
-- Made sure all image elements are correctly implemented with accurate src file paths.
-- implemented a back to top button.
-- Implement smooth scrolling.
-- Implement a hover effect on buttons to make them more interactive.
-- Create a basic footer with social media icons that link to social media pages.
+- Used `<header>`, `<nav>`, and `<footer>` elements.
+- Applied CSS absolute positioning to overlay text on an image.
+- Utilized CSS Flexbox to create a flexible and responsive layout in the `<nav>` element.
+- Ensured all image elements have correct `src` file paths.
+- Implemented a back to top button.
+- Enabled smooth scrolling.
+- Added a hover effect on buttons for interactivity.
+- Created a basic footer with social media icons linking to social media pages.
 
 requirements that i was unable to achieve
 
