@@ -1,20 +1,22 @@
-## Requirements I Think I've Achieved
+## Requirements I think I've achieved
 
-- I've used header, nav, and footer elements.
-- Applied CSS absolute positioning to overlay text on an image.
-- Utilized CSS Flexbox to create a flexible and responsive layout in the nav element.
-- Ensured all image elements have correct src file paths.
-- Implemented two back to top buttons. The first one is by clicking home and it will reload the page, and the second one is with a fixed button in the bottom right of the webpage.
-- Enabled smooth scrolling.
-- Added a hover effect on buttons for interactivity.
-- Created a basic footer with social media icons linking to social media pages.
-- added audio
+- I've used header, nav, and footer elements
+- Applied CSS absolute positioning to overlay text on an image
+- Utilized CSS Flexbox to create a flexible and responsive layout in the nav element
+- Ensured all image elements have correct src file paths
+- Implemented two back to top buttons. The first one is by clicking home and it will reload the page, and the second one is with a fixed button in the bottom right of the webpage
+- Enabled smooth scrolling
+- Added a hover effect on buttons for interactivity
+- Created a basic footer with social media icons linking to social media pages
+- Added audio
 
 ## Extra things i have added
 
-- Multiple extra pages. About us, Consoles, Games, Contact
-- Image background to the about me page.
+- Extra pages. About us, Consoles, Games, Contact
+- Image background to the about me page
+- Made 3 different box effects on about me page
 - Name, Email and Message box on contact page
+- Responsive grid layout on game page
 
 ## requirements that I wasnt able to achieve
 
@@ -49,6 +51,10 @@ Style
 
 - Font style - https://www.w3schools.com/css/css_font.asp
 - Social Logos - https://www.w3schools.com/icons/fontawesome_icons_intro.asp
+
+Extra
+
+- https://www.youtube.com/watch?v=1_7CUVB2a-o&t=372s
 
 ## Feedback Request
 

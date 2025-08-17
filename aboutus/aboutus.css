@@ -1,3 +1,49 @@
-* {
-  background-color: silver;
+body {
+  background: linear-gradient(to right, #ffffff, #ff0000);
+  width: 100%;
+  height: 100%;
+}
+
+.test {
+  width: 100px;
+  height: 100px;
+  background-color: #000;
+  margin: 100px;
+  transform: perspective(1000px);
+  transition: transform 0.5s;
+}
+
+.test:hover {
+  transform: perspective(1000px) rotateY(180deg);
+}
+
+.test2 {
+  background: rgba(0, 128, 0, 0.1);
+  border: 1px solid rgba(0, 128, 0, 0.1);
+  backdrop-filter: blur(10px);
+  color: rgb(0, 0, 0);
+  padding: 20px;
+  margin: 20px;
+  width: 300px;
+  margin: 20px auto;
+}
+
+.test3 {
+  width: 200px;
+  height: 100px;
+  border: 5px solid;
+  border-image: linear-gradient(45deg, #00ff2a, #002fff, #b300ff) 1;
+  animation: gradient-border 3s infinite;
+}
+
+@keyframes gradient-border {
+  0% {
+    border-image-source: linear-gradient(45deg, #00ff2a, #002fff, #b300ff);
+  }
+  50% {
+    border-image-source: linear-gradient(45deg, #002fff, #b300ff, #00ff2a);
+  }
+  100% {
+    border-image-source: linear-gradient(45deg, #b300ff, #00ff2a, #002fff);
+  }
 }
