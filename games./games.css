@@ -1,0 +1,15 @@
+* {
+  background-color: silver;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.grid-item {
+  background: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}

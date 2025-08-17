@@ -1,0 +1,24 @@
+body {
+  background-image: url(images/test2.webp);
+  background-size: fill;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h1 {
+  color: #000000;
+  font-size: 2em;
+  text-align: center;
+}
+
+p {
+  color: #000000;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+h2 {
+  color: #000000;
+  font-size: 1.5em;
+  text-align: center;
+}
