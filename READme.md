@@ -13,10 +13,11 @@
 ## Extra things i have added
 
 - Extra pages. About us, Consoles, Games, Contact
-- Image background to the about me page
+- Image background to the console page
 - Made 3 different box effects on about me page
 - Name, Email and Message box on contact page
 - Responsive grid layout on game page
+- background gradient on about me page
 
 ## requirements that I wasnt able to achieve
 
