@@ -24,7 +24,7 @@
 
 ## Reflection
 
-For Week One's assignment, we were asked to build a website using HTML and CSS while meeting the given requirements. I feel like I got along with the assignment pretty well and had a good understanding of how to do most of what was asked. I think I've managed to reach all the targets set and nearly all the stretch goals. I've also found it helpful to reach out to my peers, asking them questions, sharing ideas, and helping each other.
+For Week One's assignment, we were asked to build a website using HTML and CSS while meeting the given requirements. I feel like I got along with the assignment pretty well and had a good understanding of how to do most of what was asked. I think I've managed to reach all the targets set and all the stretch goals. I've also found it helpful to reach out to my peers, asking them questions, sharing ideas, and helping each other.
 
 ## Errors or Bugs I Encountered
 
