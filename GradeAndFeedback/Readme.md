@@ -4,13 +4,13 @@ This is a really great website! Fantastic work!!! There are lots of great exampl
 
 ## HTML:
 
-I’m a big fan of the way you have structured your HTML file! You’ve followed best practices like including a <header>, <main> and <footer> element and you have nested your other elements inside appropriate containers throughout! The elements you have chosen to use like <nav> and <section> make good semantic sense and also follow the best practices we are looking for!
+I’m a big fan of the way you have structured your HTML file! You’ve followed best practices like including a header, main and footer element and you have nested your other elements inside appropriate containers throughout! The elements you have chosen to use like nav and section make good semantic sense and also follow the best practices we are looking for!
 
 Some things to consider:
 
 - Broken path -> games./games.html has an extra dot. It should be games/games.html.
 
-- Multiple <h1>s -> You have an <h1> in the header and also inside sections. Keep a single <h1> for the page and the use <h2>/<h3> in content.
+- Multiple h1s -> You have an h1 in the header and also inside sections. Keep a single h1 for the page and the use h2/h3 in content.
 
 - Autoplay audio: Browsers will usually block autoplay with sound by default (thankfully!) so don’t rely on it. Well done for implementing the controls for the audio element though, another best practice!
 
