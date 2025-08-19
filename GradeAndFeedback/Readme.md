@@ -38,9 +38,10 @@ You also successfully managed to deploy your website using Github pages! This is
 ## Suggestions for next time:
 
 I think it would be well worth digging into the specifics of complex CSS selectors a bit as your styling is of such a high quality. This would supercharge the specificity in which you can apply those amazing styles of yours! Check out:
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors/Selector_structure
-https://www.w3schools.com/css/css_combinators.asp
-https://www.w3.org/TR/selectors-4/ (this content is very broad in scope, don't get lost down a rabbit hole!)
+
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors/Selector_structure
+- https://www.w3schools.com/css/css_combinators.asp
+- https://www.w3.org/TR/selectors-4/ (this content is very broad in scope, don't get lost down a rabbit hole!)
 
 This is an outstanding piece of work and you should be very proud of yourself! We’re definitely proud of you!!
 I’m giving you a 4 for this assignment as you have successfully implemented all of the core goals we were looking for but also went on to implement a big bag of very funky stretch goals!
